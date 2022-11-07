@@ -1,4 +1,4 @@
-# uni-aid
+Paid command 
 
 
 
